@@ -2,13 +2,13 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group name="Java 8 POO Libro Macro">
-            <file>file:/C:/Users/slb_1/OneDrive/Escritorio/ProyectosDev/Cursos/TodoCode/POO/POO/src/Logica/POO.java</file>
-            <file>file:/C:/Users/slb_1/OneDrive/Escritorio/ProyectosDev/Cursos/TodoCode/POO/POO/src/Logica/Alumno.java</file>
-        </group>
         <group>
             <file>file:/Users/macmor/OneDrive/Escritorio/ProyectosDev/Cursos/TodoCode/POO/POO/src/Logica/POO.java</file>
             <file>file:/Users/macmor/OneDrive/Escritorio/ProyectosDev/Cursos/TodoCode/POO/POO/src/Logica/Alumno.java</file>
+        </group>
+        <group name="Java 8 POO Libro Macro">
+            <file>file:/C:/Users/slb_1/OneDrive/Escritorio/ProyectosDev/TodoCodePOO/src/Logica/Alumno.java</file>
+            <file>file:/C:/Users/slb_1/OneDrive/Escritorio/ProyectosDev/TodoCodePOO/src/Logica/POO.java</file>
         </group>
     </open-files>
 </project-private>

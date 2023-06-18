@@ -2,23 +2,21 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package herencia;
+package Excepciones;
 
 /**
  *
- * @author slb_18
+ * @author slb_1
  */
-public class Herencia {
+public class TryCatch {
     public static void main(String[] args) {
-    
-    Persona vector[] = new Persona [5];
-    vector[0]= new Persona();
-    vector[1]= new Empleado();
-    vector[2]= new Consultor();
-    vector[3]= new Jefe();
-    
-    
-    
-    
+        
+        try {
+            int resultado = 3/0;
+        } catch (Exception e) {
+            System.out.println("No se ouede dividir por 0");
+        }
+        
     }
+    
 }

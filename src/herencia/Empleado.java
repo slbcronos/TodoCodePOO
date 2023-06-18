@@ -12,6 +12,10 @@ public class Empleado extends Persona{
     int num_legal;
     String cargo;
     Double sueldo;
+    
+    public Empleado(){
+        
+    }
 
     public Empleado(int num_legal, String cargo, Double sueldo, int id, String ine, String nombre, String apellido, String domicilio, String telefono) {
         super(id, ine, nombre, apellido, domicilio, telefono);
